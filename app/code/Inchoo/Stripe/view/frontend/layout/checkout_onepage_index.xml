@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<layout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../Magento/Core/etc/layout_single.xsd">
+    
+    <!--
+    <referenceBlock name="head.components">
+        <block class="Magento\Framework\View\Element\Js\Components" name="authorizenet_page_head_components" template="Magento_Authorizenet::js/components.phtml"/>
+    </referenceBlock>
+    -->
+
+</layout>

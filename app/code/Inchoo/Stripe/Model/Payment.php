@@ -5,6 +5,8 @@ class Payment extends \Magento\Payment\Model\Method\Cc
 {
 	const CODE = 'inchoo_stripe';
 	
+	protected $_formBlockType = 'Inchoo\Stripe\Block\Form';
+	
 	protected $_code = self::CODE;
 
 	protected $_isGateway                   = true;
